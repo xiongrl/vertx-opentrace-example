@@ -11,3 +11,5 @@ jdk version 17
 		System.setProperty("JAEGER_SERVICE_NAME", "test");
 	}
 ```
+
+main method com.test.ServerLauncher#main
